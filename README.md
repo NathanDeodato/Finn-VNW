@@ -17,7 +17,7 @@
 
 <h2  align="center">Application demo</h2>
 
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d052b1b7-5a22-457d-b01c-6eb0845bf265/deploy-status)](https://app.netlify.com/sites/finn-vnw/deploys)
 
 ---
 
