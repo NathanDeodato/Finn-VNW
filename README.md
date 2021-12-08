@@ -11,7 +11,7 @@
 ---
 
 <h2 align="center">Design</h2>
-<a href="https://www.figma.com/file/pwgyOlJFZGY4k2Ct56OPSe/FINN---Login"><img src="https://img.shields.io/static/v1?label=Design&message=FIGMA&color=00FA9A&style=for-the-badge&logo=figma" alt="ntShield-Designe"></a>
+<a href="https://www.figma.com/file/pwgyOlJFZGY4k2Ct56OPSe/FINN---Login"><img src="https://img.shields.io/static/v1?label=Design&message=FIGMA&color=00FA9A&style=for-the-badge&logo=figmaM" alt="ntShield-Designe"></a>
 
 ---
 
