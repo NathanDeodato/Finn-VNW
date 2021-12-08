@@ -1,0 +1,136 @@
+/* Config-font */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,300&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* config-body */
+body {
+    background-color: #2CB3F3;
+    font-family: 'Roboto', sans-serif;
+}
+
+/* config-main */
+
+.Box-LoginInfos {
+    width: 35vw;
+    height: 50vh;
+    
+    position: absolute;
+    top: 25vh;
+    left: 33vw;
+
+    background-color: #fff;
+    border-radius: 40px 40px 0px 0px;
+}
+.Box-Finn {
+    width: 25vw;
+    height: 40vh;
+    
+    position: absolute;
+    z-index: 0;
+    top: 5vh;
+    left: 5vw;
+    
+    background-color: #FFE1C9;
+    border-radius: 50%;
+}
+
+.Title {
+    text-align: center;
+    font-size: 25pt;
+    
+    position: relative;
+    top: 8vh;
+}
+.Text {
+    text-align: center;
+    font-size: 15pt;
+    font-weight: bold;
+
+    position: relative;
+    top: 9vh;
+}
+
+.Circle-One {
+    width: 3vw;
+    height: 6vh;
+
+    position: absolute;
+    top: 8vh;
+    left: 6vw;
+
+    background-color: black;
+    border-radius: 50%;
+}
+.Circle-Two {
+    width: 3vw;
+    height: 6vh;
+
+    position: absolute;
+    top: 8vh;
+    left: 16vw;
+
+    background-color: black;
+    border-radius: 50%;
+}
+
+.Email {
+    width: 15vw;;
+    height: 5vh;
+
+    position: absolute;
+    z-index:1;
+    top: 24vh;
+    left: 10vw;
+
+    border: black solid 2px;
+    border-radius: 3px;
+}
+.Pass {
+    width: 15vw;;
+    height: 5vh;
+
+    position: absolute;
+    z-index: 1;
+    top: 30vh;
+    left: 10vw;
+
+    border: black solid 2px;
+    border-radius: 3px;
+}
+
+.Box-Button {
+    width: 35vw;
+    height: 10vh;
+}
+.Button {
+    width: 10vw;
+    height: 7vh;
+
+    position: absolute;
+    top: 85vh;
+    left: 45.5vw;
+
+    background-color: #55A603;
+    border: none;
+    border-radius: 5px;
+    outline: none;
+    box-shadow: 0px 2px 2px 0px black;
+}
+.Button:hover {
+    width: 12vw;
+    height: 8vh;
+
+    position: absolute;
+    left: 45vw;
+
+    cursor: pointer;
+    
+    color: white;
+    background-color: #468b00;
+    box-shadow: 0px 5px 5px 0px black;
+}
